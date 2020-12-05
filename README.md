@@ -1,5 +1,4 @@
 # terraform-iaac-august-2020
-# terraform-iaac-august-2020
 ### This module creates azure-vm-scale-set
 
 ```
